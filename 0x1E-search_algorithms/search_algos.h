@@ -13,7 +13,7 @@
  * @next: Pointer to the next node
  *
  * Description: singly linked list node structure
- * for algo_search project
+ * for Holberton project
  */
 
 
